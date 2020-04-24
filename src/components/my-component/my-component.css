@@ -1,0 +1,19 @@
+.rojo{
+  background-color: red;
+  color: azure;
+}
+
+.rojo:disabled{
+  background-color: yellow;
+  color: black;
+}
+
+.azul{
+  background-color: blue;
+  color: azure;
+}
+
+.azul:disabled{
+  background-color: green;
+  color: black;
+}
